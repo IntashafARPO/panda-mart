@@ -1,0 +1,23 @@
+#navbarNav{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+}
+.container{
+    padding-bottom: 60px;
+}
+.about-us-line{
+    display: flex;
+    justify-content: center;
+}
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+.about-image{
+    text-align: center;
+}
+.about-para{
+    text-align: center;
+}
